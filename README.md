@@ -8,9 +8,11 @@ My digital garden site.
 Built with:
 
 [TiddlyWiki](https://tiddlywiki.com/)
+
 [Drift](https://akhater.github.io/drift/)
 
 More info:
 
 [Digital Gardens](https://maggieappleton.com/garden-history)
+
 [ZettelKasten](https://zettelkasten.de/introduction/)
